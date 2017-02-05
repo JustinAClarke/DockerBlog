@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting started with Docker on the pi3"
-date:   2017-02-05 12:44:58 +1100
+date:   2017-02-05 01:44:58 +1100
 ---
 Docker is a containerisation software designe to assist in the development and implementation of applications, or programs.  
 
