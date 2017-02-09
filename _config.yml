@@ -18,7 +18,7 @@ email: docker@justin.fuhrmeister-clarke.com
 description: > 
   A Docker Blog of my adventures in getting docker working with the Raspberry Pi 3
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dockerblog.fuhrmeister-clarke.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://justinfuhrmeister-clarke.github.io/DockerBlog" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  JustinFuhrmeister-Clarke
 

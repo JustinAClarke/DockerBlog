@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 This is a blog about my adventures in Docker and running it on the Raspberry Pi  
 I will attempt to update this as I update the repos, and log all issues and errors I come up against.
 
